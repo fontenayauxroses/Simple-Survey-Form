@@ -1,2 +1,2 @@
 # what-i-learn
-level zero
+level zero ok
